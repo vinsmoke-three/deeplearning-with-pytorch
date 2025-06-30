@@ -1,0 +1,6 @@
+__pycache__/
+.gradio/
+.DS_Store
+food-101.tar.gz
+models/
+images/
